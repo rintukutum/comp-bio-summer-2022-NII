@@ -1,7 +1,7 @@
 # Computational Biology Workshop 2022
 - Venue: National Institute of Immunology, New Delhi
 - Format: 2 months, May - July, 2022 (2 days per week)
-- Tutor: Dr. Rintu Kutum, Faculty Fellow (Data Scientist), Mphasis Lab for Computational Thinking & Machine Learning, Department of Computer Science, Ashoka University.
+- Tutor: Rintu Kutum, Faculty Fellow (Data Scientist), Mphasis Lab for Computational Thinking & Machine Learning, Department of Computer Science, Ashoka University.
 - TA: Manti Kumar Saha (PhD scholar, NII); Chen Chongtham (PhD scholar, NII); Somdeb Chattopadhyay (PhD scholar, NII)
 - Organisers: Dr. Debasisa Mohanty (Scientist, NII); Dr. Soumen Basak (Scientist, NII); Dr. Aneeshkumar AG (Scientist)
 
