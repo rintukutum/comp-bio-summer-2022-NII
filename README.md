@@ -8,5 +8,6 @@
 
 ## Reading materials
 
-### Day 2 : Week 1
-- [Single-cell analysis enters the multiomics age](https://www.nature.com/articles/d41586-021-01994-w)
+### Week 1 : Day 2
+- [2021_Perkel_NatBio : Single-cell analysis enters the multiomics age](https://www.nature.com/articles/d41586-021-01994-w)
+- [2016_Auffray_GenomeBio : Making sense of big data in health research: Towards an EU action plan](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0323-y)
