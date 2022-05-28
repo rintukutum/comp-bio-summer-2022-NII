@@ -5,6 +5,10 @@
 - TA: Manti Kumar Saha (PhD scholar, NII); Chen Chongtham (PhD scholar, NII); Somdeb Chattopadhyay (PhD scholar, NII)
 - Organisers: Dr. Debasisa Mohanty (Scientist, NII); Dr. Soumen Basak (Scientist, NII); Dr. Aneeshkumar AG (Scientist)
 
+## Contents:
+- Week 1 - Day 2
+- Week 2 - Day 3
+- [Week 2 - Day 4](https://github.com/rintukutum/comp-bio-summer-2022-NII/blob/main/contents/week-2-day-4.md)
 
 ## Reading materials
 
