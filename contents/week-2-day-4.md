@@ -98,5 +98,7 @@ genes[!LG]
 ## Editor
 - [notepad++](https://notepad-plus-plus.org)
 
+## IDE
+- [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
  
