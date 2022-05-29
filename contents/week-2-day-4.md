@@ -12,6 +12,15 @@ Today, we will try to cover the R-basics.
 	- Numerical vectors
 	- Character vectors
 	- Logical vectors
+## Good Pactices
+- [Good practices in R programming](https://kb.iu.edu/d/aaxp)
+- [Best practices](https://db.rstudio.com/best-practices/)
+- [Good Practices in R Programming by Martin Machler](https://stat.ethz.ch/Teaching/maechler/R/useR_2014/Maechler-2014-pr.pdf)
+
+## Composite figures
+- [Inkscape](https://inkscape.org)
+- [Inkscape Explained in 5 Minutes](https://www.youtube.com/watch?v=pa6a7oz7vEE)
+- [All 21 Inkscape Tools Explained in 10 Minutes](https://www.youtube.com/watch?v=qq7HsMvEVmU)
 
 
 
