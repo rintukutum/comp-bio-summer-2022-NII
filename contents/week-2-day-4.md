@@ -95,6 +95,8 @@ genes[!LG]
 - [Inkscape Explained in 5 Minutes](https://www.youtube.com/watch?v=pa6a7oz7vEE)
 - [All 21 Inkscape Tools Explained in 10 Minutes](https://www.youtube.com/watch?v=qq7HsMvEVmU)
 
+## Editor
+- [notepad++](https://notepad-plus-plus.org)
 
 
  
