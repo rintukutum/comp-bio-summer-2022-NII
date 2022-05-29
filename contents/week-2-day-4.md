@@ -8,7 +8,10 @@ Today, we will try to cover the R-basics.
 - Understanding object data types
 - Mathematical and functional operations on objects
 - Data types and structures
-	- [Additional material on vectors & list](https://datacarpentry.org/genomics-r-intro/03-basics-factors-dataframes/index.html)
+- About vectors
+	- Numerical vectors
+	- Character vectors
+	- Logical vectors
 
 
 
