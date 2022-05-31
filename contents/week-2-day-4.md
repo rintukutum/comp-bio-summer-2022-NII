@@ -101,4 +101,21 @@ genes[!LG]
 ## IDE
 - [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
- 
+## Excercise
+1. Why does this code not work?
+```{R}
+my_fav_variable <- c('IL6','LINC','OAS1')
+my_fav_varıable
+#Error: object 'my_fav_varıable' not found
+```
+2.  Write a R code to create a character vector of your favorite pathway.
+```{R}
+# format ----- 
+# yourname_pathway <- c('gene 1', 'gene 2')
+# ------------
+# example (https://www.genome.jp/entry/N00151)
+# rk_tnf.nfkb <- c('TNF', 'TNFRSF1A', 'RIPK1', 'TRADD', 'TRAF2', 'TRAF5',
+	'TAB1', 'TAB2', 'TAB3', 'MAP3K7', 'CHUK', 'IKBKB', 'IKBKG', 'NFKBIA',
+	'NFKB1', 'RELA')
+# ------------ 
+``` 
