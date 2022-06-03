@@ -9,7 +9,7 @@
 - Week 1 - Day 2
 - Week 2 - Day 3
 - [Week 2 - Day 4](https://github.com/rintukutum/comp-bio-summer-2022-NII/blob/main/contents/week-2-day-4.md)
-
+- [Week 3 - Day 5](https://github.com/rintukutum/comp-bio-summer-2022-NII/blob/main/contents/week-3-day-5.md)
 ## Reading materials
 
 ### Week 1 : Day 2
