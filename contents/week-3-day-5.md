@@ -1,4 +1,4 @@
-## Week 2 : Day 5
+## Week 3 : Day 5
 Last class, we all learn about vectors (character, numeric & logical) and indexing, naming, subsetting.
 Today, we will cover following topics
 - vector functions
