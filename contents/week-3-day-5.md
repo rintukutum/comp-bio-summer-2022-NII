@@ -1,9 +1,44 @@
 ## Week 2 : Day 5
 Last class, we all learn about vectors (character, numeric & logical) and indexing, naming, subsetting.
 Today, we will cover following topics
+- vector functions
+- selecting vector elements
 - matrix
 - data.frame
 - list
+
+### More on vectors
+```{}
+
+# sample values from a input
+vals <- 1:100
+
+
+# about set.seed() function; Random Number Generation
+# without set.seed() function
+
+samp_data <- sample(x=vals,size=50,replace=TRUE)
+
+# with set.seed() function
+set.seed(198)
+samp_data <- sample(x=vals,size=50,replace=TRUE)
+
+# Sorting vector
+sort(samp_data)
+
+# learn more about sort: ?sort
+#---
+# reverse a vector
+rev(samp_data)
+#---
+# table function to see counts of values
+table(samp_data)
+
+#---
+# unique function to see unique values
+unique(samp_data)
+
+```
 
 ### Matrix in R
 ```{R}
