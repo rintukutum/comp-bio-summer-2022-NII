@@ -38,6 +38,20 @@ table(samp_data)
 # unique function to see unique values
 unique(samp_data)
 
+#---
+# selecting vectors
+
+#---
+# LOOPS
+
+# for loop
+
+# while loop
+
+#---
+# FUNCTIONS
+
+#---
 ```
 
 ### Matrix in R
