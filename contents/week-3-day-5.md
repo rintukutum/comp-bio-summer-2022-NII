@@ -7,8 +7,46 @@ Today, we will cover following topics
 - data.frame
 - list
 
+
 ### More on vectors
 ```{}
+# conditions
+a <- 1
+b <- 2
+
+# equal to
+a == b
+
+# not equal to
+a != b
+
+# greater than
+a > b
+# less than
+a < b
+
+# greater than equal to
+a >= b
+
+# less than equal to
+a <= b
+
+#-------
+# Maths functions
+num_vec <- c(3,2,8,-1)
+
+sum(num_vec)
+
+
+log(num_vec)
+
+log2(num_vec)
+
+log10(c(10,100,1000))
+
+#-------
+# useful functions
+# seq function
 
 # sample values from a input
 vals <- 1:100
@@ -22,6 +60,10 @@ samp_data <- sample(x=vals,size=50,replace=TRUE)
 # with set.seed() function
 set.seed(198)
 samp_data <- sample(x=vals,size=50,replace=TRUE)
+
+
+
+
 
 # Sorting vector
 sort(samp_data)
